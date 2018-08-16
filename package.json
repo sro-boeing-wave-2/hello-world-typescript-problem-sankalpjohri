@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc typescript/hello-world.ts"
+    "build": "tsc typescript/hello-world.ts",
+    "start": "static ."
   },
   "keywords": [
     "typescript",
